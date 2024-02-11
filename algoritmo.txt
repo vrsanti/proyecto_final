@@ -1,0 +1,27 @@
+Algoritmo:
+
+1. Definir precio base cotización
+2. Definir valores recargos asegurado
+3. Definir valores recargos conyuge asegurado
+4. Definir valores recargos hijos asegurado
+5. Definir valores recargos propiedades asegurado
+6. Definir valores recargos salario asegurado
+7. Definir valores globales de recargos a cero
+8. Definir valor global de precio final a cero
+9. Solicitar nombre asegurado
+10. Solicitar edad asegurado
+11. Solicitar ingreso asegurado
+12. Solicitar cantidad de propiedades asegurado
+13. Transformar valores edad, ingreso, propieades a formato numérico
+14. Solicitar confirmación de conyugue a asegurado
+15. Confirmar edad de conyugue de asegurado si aplica
+16. Solicitar confirmación de hijos a asegurado
+17. Confirmar cantidad de hijos de asegurado si aplica
+18. Calcular valor de recargo de edad de asegurado
+19. Calcular valor de recargo de edad de conyuge de asegurado si aplica
+20. Calcular valor de recargo de ingreso de asegurado
+21. Calcular valor de recargo de propiedad de asegurado
+22. Calcular valor de recargo de hijos de asegurado si aplica
+23. Calcular precio final de cotización 
+24. Desplegar valor total de recargo
+25. Desplegar valor total de seguro
