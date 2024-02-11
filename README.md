@@ -7,13 +7,10 @@ Simple overview of use/purpose.
 
 Contexto:
 
--> Empresa de seguros recibe más de 100 cotizaciones diarias de seguros.
-
--> Proceso de cotización es manual, lento, consume un alto número de recursos y tiempo.
-
--> Proceso actual no permite realizar más de 50 cotizaciones diarias.
-
--> Acumulación de solicitudes de cotizaciones sumado a un proceso manual poco eficiente da como resultado:
+* Empresa de seguros recibe más de 100 cotizaciones diarias de seguros.
+* Proceso de cotización es manual, lento, consume un alto número de recursos y tiempo.
+* Proceso actual no permite realizar más de 50 cotizaciones diarias.
+* Acumulación de solicitudes de cotizaciones sumado a un proceso manual poco eficiente da como resultado:
 	* atraso en entrega de cotizaciones
 	* pérdida de posibles clientes.
 
