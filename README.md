@@ -14,8 +14,8 @@ Contexto:
 -> Proceso actual no permite realizar más de 50 cotizaciones diarias.
 
 -> Acumulación de solicitudes de cotizaciones sumado a un proceso manual poco eficiente da como resultado:
-	=> atraso en entrega de cotizaciones
-	=> pérdida de posibles clientes.
+	* atraso en entrega de cotizaciones
+	* pérdida de posibles clientes.
 
 Requerimientos:
 
