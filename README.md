@@ -21,17 +21,17 @@ Requerimientos:
 
 -> Asegurado > 18 años
 -> Costo base + costos extra en función de:
-	=> edad asegurado
-		|> 18 - 24 años 10%
-		|> 25 - 49 años 20%
-		|> +50 años 30%
+	* edad asegurado
+		* 18 - 24 años 10%
+		* 25 - 49 años 20%
+		* +50 años 30%
 	=> estatus civil
 	=> edad conyugue del asegurdado (si aplica)
-		|> 18 - 24 años 10%
-		|> 25 - 49 años 20%
-		|> +50 años 30%
+		* 18 - 24 años 10%
+		* 25 - 49 años 20%
+		* +50 años 30%
 	=> cantidad hijos del asegurado (si aplica)
-		|> por cada hijo 20% (independiente de la edad del hijo)
+		* por cada hijo 20% (independiente de la edad del hijo)
 
 ## Autor
 
