@@ -15,7 +15,7 @@ Contexto:
 
 -> Acumulación de solicitudes de cotizaciones sumado a un proceso manual poco eficiente da como resultado:
 	* atraso en entrega de cotizaciones
- 	* pérdida de posibles clientes.
+	* pérdida de posibles clientes.
 
 Requerimientos:
 
